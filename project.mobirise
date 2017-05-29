@@ -528,7 +528,8 @@
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "72px"
             }
           },
           "_tags": [
@@ -555,8 +556,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Over Amelie</span>",
-          "text": "Als studente textielontwerp vind ik het belangrijk om me bezig te houden met de zintuiglijke ervaring die een oppervlakte kan opwekken. Diverse handmatige textiele technieken zoals breien en weven bieden me de mogelijkheid om dit te doen.&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">About Amelie</span><br><span style=\"font-weight: normal;\"><br></span>",
+          "text": "&nbsp;As a student textile design, it is important to me to be concerned with senses and the experience that surfaces can awake. Multiple techniques such as knitting and weaving give me the opportunity to do so.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         }
       ]
